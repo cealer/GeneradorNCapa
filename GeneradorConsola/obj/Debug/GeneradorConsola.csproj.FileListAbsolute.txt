@@ -1,0 +1,6 @@
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\bin\Debug\GeneradorConsola.exe.config
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\bin\Debug\GeneradorConsola.exe
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\bin\Debug\GeneradorConsola.pdb
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\obj\Debug\GeneradorConsola.exe
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\obj\Debug\GeneradorConsola.pdb
+C:\Users\Cesar\Desktop\MVC_ASP_EJERCICIO\CealeR_Herramientas_Programacion\GeneradorConsola\obj\Debug\GeneradorConsola.csprojResolveAssemblyReference.cache
